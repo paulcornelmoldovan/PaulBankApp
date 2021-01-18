@@ -1,4 +1,4 @@
-import json
+import reports
 from menu import menu
 import functions
 
@@ -21,7 +21,7 @@ while True:
         elif option == 3:
             functions.client_balance()
         elif option == 4:
-            print('4')
+            reports.report()
         elif option == 5:
             print('Program ended.')
             break
