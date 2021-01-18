@@ -1,0 +1,27 @@
+{
+    "1": {
+        "name": "Michaela Moldovan",
+        "telephone": "7364567364",
+        "city": "Eppingen",
+        "balance": 10000
+    },
+    "2": {
+        "name": "Paul Moldovan",
+        "telephone": "746553646",
+        "city": "Eppingen",
+        "balance": 30000
+    },
+    "3": {
+        "name": "Gabriel Salajeanu",
+        "telephone": "4387436453",
+        "city": "Mosbach",
+        "balance": 800
+    },
+    "4": {
+        "name": "Teo Stefanescu",
+        "telephone": "98798775",
+        "city": "Sinsheim",
+        "balance": 0
+    }
+
+}

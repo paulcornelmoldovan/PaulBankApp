@@ -1,0 +1,1 @@
+menu = ['1. Add Client', '2. Client info', '3. Edit balance', '4. Balance report', '5. Exit']
